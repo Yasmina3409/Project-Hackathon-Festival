@@ -1,0 +1,5 @@
+  MONGO_URL=" your mongoDB url"
+   SECRET="your secret key"
+  
+ 
+  
